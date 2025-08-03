@@ -184,6 +184,6 @@ jupyter notebook notebooks/Final HPP.ipynb
 
 📧 Contact :
 
-👤 Dhanush Puligorla
-📩 Email: dhanushpuligorla@gmail.com
-🌐 GitHub: Puligorladhanush
+👤 Dhanush Puligorla  
+📩 Email: dhanushpuligorla@gmail.com  
+🌐 GitHub: Puligorladhanush  
