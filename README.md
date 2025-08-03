@@ -167,4 +167,17 @@ R^2 scores:
 ✅ Multiple Model Comparison  
 ✅ Predictions on New Data  
 
+📂 How to Run This Project :
 
+🔹 1️⃣ Clone Repository :
+
+git clone https://github.com/Puligorladhanush/House-Price-Prediction.git
+cd Titanic-Survival-Prediction
+
+🔹 2️⃣ Install Dependencies :
+
+pip install -r requirements.txt
+
+🔹 3️⃣ Run the Notebook :
+
+jupyter notebook notebooks/Final HPP.ipynb
