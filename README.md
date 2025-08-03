@@ -181,3 +181,9 @@ pip install -r requirements.txt
 🔹 3️⃣ Run the Notebook :
 
 jupyter notebook notebooks/Final HPP.ipynb
+
+📧 Contact :
+
+👤 Dhanush Puligorla
+📩 Email: dhanushpuligorla@gmail.com
+🌐 GitHub: Puligorladhanush
